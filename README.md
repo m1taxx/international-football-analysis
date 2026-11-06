@@ -1,6 +1,5 @@
-<div align="center">
 # ⚽ International Football Analysis
- 
+<div align="center">
 **Who ruled each era of international football, how big is the home advantage, and do penalties explain it?**
  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
