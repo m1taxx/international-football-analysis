@@ -54,7 +54,7 @@ Brazil is in the top three in each of the first four eras but only 12th in 2010â
 
 ## ðŸ“Š Power BI dashboard
 
-The notebook exports its results to CSV files (`powerbi_data`), which feed a three-page Power BI report. The report file is [`football_dashboard.pbix`](powerbi/football_dashboard.pbix) (open it in Power BI Desktop).
+The notebook exports its results to CSV files (`powerbi_data`), which feed a three-page Power BI report. The report file is [`football_history_dashboard.pbix`](powerbi/football_dashboard.pbix) (open it in Power BI Desktop).
 
 ### Overview
 
